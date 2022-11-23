@@ -1,3 +1,3 @@
 module.exports = {
-  url: "YOUR_CONNECTION_STRING_HERE"
+  url: "mongodb+srv://yayadevops:devops000@cluster0.uwjy2z1.mongodb.net/?retryWrites=true&w=majority",
 };
